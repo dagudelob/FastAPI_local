@@ -15,7 +15,7 @@ def get_superheroes():
     rows = ["Superman", "Batman", "Flash", "Linterna Verde", "Mujer maravilla", "Aquaman", "Shazam", "Cyborg"]
     return rows
 
- ''' 
+''' 
  INSTRUCTIONS TO RUN THE FASTAPI APP:
      
     # 1. Install FastAPI and Uvicorn if you haven't already:
